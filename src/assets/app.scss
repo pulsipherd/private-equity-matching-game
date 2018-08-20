@@ -1,0 +1,36 @@
+.Game {
+}
+
+.Header {
+  font-size: 300%;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: green underline overline;
+}
+
+.Card {
+  float: left;
+  width: 8rem;
+  height: 3.3rem;
+  padding: 1.5rem;
+  margin: 1rem;
+  border: 1px solid black;
+  text-align: center;
+  font-size: 125%;
+  font-weight: 900;
+  color: black;
+  text-shadow: -1px 0 grey, 0 1px grey, 1px 0 grey, 0 -1px grey;
+  background-color: lightblue;
+  
+  // .Card--flipped
+  &--flipped {
+    background-color: gray;
+  }
+
+  // .Card--matched
+  &--matched {
+    background-image: url("https://assure.co/wp-content/uploads/2015/10/assuredServicesLogo.jpg");
+    background-size: contain;
+    background-color: green;
+  }
+}
