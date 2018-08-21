@@ -1,5 +1,5 @@
 {
-  "name": "Private-Equity-Matching-Game",
+  "name": "private-equity-matching-game",
   "version": "1.0.0",
   "description": "Matching game that uses the steps of the Private Equity Process to make a point about the best way to accomplish the process",
   "main": "src/index.js",

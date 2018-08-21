@@ -1,8 +1,6 @@
 # react-memory-game
 
-This is a memory game app built with React. It was built with the purpose of helping teach React by example. You can follow the step by step process by walking through the commits starting from the beginning.
-
-Note that there are many helpful in-line comments that provide background and explanation.
+This is a memory game app built with React. It was built with the purpose of helping people get excited about the private equity process, and driving home the point that Assure can help them move through the process more easily.
 
 ## Setup
 
