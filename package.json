@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "Matching game that uses the steps of the Private Equity Process to make a point about the best way to accomplish the process",
   "main": "src/index.js",
-  "engines": {
-    "npm": "5.6.0",
-    "node": "8.11.1"
-  }
+  
   "scripts": {
     "build": "./node_modules/.bin/webpack",
     "serve": "./node_modules/.bin/webpack-dev-server --no-info --port 4000"
